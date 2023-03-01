@@ -1,5 +1,5 @@
 # @param x: number
-# @returns x squared
+# @return x squared
 def square(x):
     return pow(x, 2)
 

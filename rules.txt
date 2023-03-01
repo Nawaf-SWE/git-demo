@@ -1,0 +1,1 @@
+use pow(number, base) instead of number**base

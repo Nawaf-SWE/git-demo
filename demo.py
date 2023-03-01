@@ -3,6 +3,8 @@
 def square(x):
     return pow(x, 2)
 
+# @param x, y: number
+# @return x plus y
 def sum(x, y):
     return x+y
 
